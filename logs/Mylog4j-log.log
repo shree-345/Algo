@@ -1,0 +1,6 @@
+[ERROR]2023-08-2721:11:05.051[main]log4j.LoggerLoad1)-Error - You can not divide a number by zero
+[INFO ]2023-08-2721:11:05.053[main]log4j.LoggerLoad1)-Info  - Addition of integers
+[WARN ]2023-08-2721:11:05.053[main]log4j.LoggerLoad1)-Warning - Testing
+[ERROR]2023-08-2722:26:58.985[main]log4j.LoggerLoad1)-Error - You can not divide a number by zero
+[INFO ]2023-08-2722:26:58.987[main]log4j.LoggerLoad1)-Info  - Addition of integers
+[WARN ]2023-08-2722:26:58.988[main]log4j.LoggerLoad1)-Warning - Testing
